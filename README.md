@@ -16,3 +16,5 @@ https://www.youtube.com/watch?v=MJisnyr6Rq8
 
 ![Untitled (9)](https://github.com/YakrooThai/RaspberryPICO/assets/56666070/78acb4a7-5ea3-4417-b196-d704461c1a57)
 
+
+![EP4 SPI St7735)](https://github.com/YakrooThai/RaspberryPICO/assets/56666070/768be46e-178d-4756-b6a4-910379a214da)
