@@ -20,3 +20,5 @@ https://www.youtube.com/watch?v=MJisnyr6Rq8
 
 
 ![EP4 SPI St7735)](https://github.com/YakrooThai/RaspberryPICO/assets/56666070/768be46e-178d-4756-b6a4-910379a214da)
+
+![Untitled (6)](https://github.com/YakrooThai/RaspberryPICO/assets/56666070/3964d626-9524-44a7-b709-194dfd57d658)
