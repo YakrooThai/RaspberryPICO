@@ -1,5 +1,7 @@
 # RaspberryPICO![400500935_1070491460771772_4400316343034341813_n-removebg-preview (1)](https://github.com/YakrooThai/RaspberryPICO/assets/56666070/0ed08d8e-ddcc-441e-ba91-ba68885341a5)
 
+https://www.youtube.com/watch?v=tEiZdJPbGkI&t=81s
+
 https://www.youtube.com/watch?v=wdex0o1VWxo&t=11s
 
 https://www.youtube.com/watch?v=78y9mBATv1s
