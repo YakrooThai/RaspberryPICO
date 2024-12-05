@@ -14,6 +14,8 @@ https://www.youtube.com/watch?v=pvpu4hvpRY0&t=2s
 
 https://www.youtube.com/watch?v=MJisnyr6Rq8
 
+https://www.youtube.com/watch?v=VIax65ICQoU
+
 ![20231213_203816](https://github.com/YakrooThai/RaspberryPICO/assets/56666070/b6b70d1f-f3af-41cc-88f0-494fcbf834f2)
 
 
